@@ -1,4 +1,4 @@
-# Submission Repository - <22BTRCA011>
+# Submission Repository - 22BTRCA011
 
 ## Folder Structure
 
